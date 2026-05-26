@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../Terraform Vault Integration"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
